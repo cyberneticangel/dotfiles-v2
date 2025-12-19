@@ -15,7 +15,6 @@
     ],
     "modules-right": [
         "idle_inhibitor",
-        "pulseaudio",
         "network",
         "cpu",
         "memory",
@@ -23,8 +22,7 @@
         "hyprland/language",
         "battery",
         "battery#bat2",
-        "clock",
-        "tray"
+        "clock"
     ],
     //Modules configuration
 
